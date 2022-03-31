@@ -1,3 +1,4 @@
-# This is a homepage of Yoshiyuki Kimura
-test
+# Welcome to Yoshiyuki Kimura's page!
+
+## test
 
