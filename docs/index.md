@@ -1,4 +1,4 @@
 # Welcome to Yoshiyuki Kimura's page!
 
-## Test
-
+## Links
+- [Minami Osaka Daisu Seminar](https://ysykimura.github.io/ModSeminar/)
